@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Javascript, Reactjs, Php, MySQL, & Laravel<br>👨‍💻 All of my projects are available at https://hanif-portfolio.vercel.app/
+🌱 I’m currently learning JavaScript, ReactJs, PHP, MySQL, & Laravel<br>👨‍💻 All of my projects are available at https://hanif-portfolio.vercel.app/
 
 ## 🌐 Socials:
 
