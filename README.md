@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahmi Hanif</h1>
-<h3 align="center">A passionate front-end web developer from Indonesia</h3>
+<h3 align="center">A Passionate Web Developer from Indonesia</h3>
 <hr />
 
 # 💫 About Me:
