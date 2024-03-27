@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently focusing on learning PHP, MySQL, & Laravel<br>👨‍💻 All of my projects are available at https://hanif-portfolio.vercel.app/
+🌱 I’m currently focusing on learning PHP & MySQL. <i>(I hate myself for always getting distracted by other things.)</i> <br>👨‍💻 All of my projects are available at https://hanif-portfolio.vercel.app/
 
 ## 🌐 Socials:
 
