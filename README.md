@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahmi Hanif</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Fahmi Hanif</h1>
 <h3 align="center">A Passionate Web Developer from Indonesia</h3>
 <hr />
 
