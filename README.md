@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web Developer from Indonesia</h3>
 <hr />
 
-👨‍💻 All of my projects are available at https://hanif-portfolio.vercel.app/
+👨‍💻 Some of my projects are available at https://hanif-portfolio.vercel.app/
 
 ## 🌐 Socials:
 
