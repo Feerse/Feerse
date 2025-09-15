@@ -2,7 +2,8 @@
 <h3 align="center">A Passionate Web Developer from Indonesia</h3>
 <hr />
 
-👨‍💻 Some of my projects are available at https://hanif-portfolio.vercel.app/
+~~👨‍💻 Some of my projects are available at https://hanif-portfolio.vercel.app/ .~~ <br /><br />
+My new portfolio website is coming soon... https://m-fahmi-hanif.netlify.app/ .
 
 ## 🌐 Socials:
 
@@ -35,6 +36,7 @@
 ### Hosting:
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 <br/>
 
 ### Design:
