@@ -2,9 +2,6 @@
 <h3 align="center">A Passionate Web Developer from Indonesia</h3>
 <hr />
 
-~~👨‍💻 Some of my projects are available at https://hanif-portfolio.vercel.app/ .~~ <br /><br />
-My new portfolio website is coming soon... https://m-fahmi-hanif.netlify.app/ .
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fahmi-hanif-55a8342a6)
